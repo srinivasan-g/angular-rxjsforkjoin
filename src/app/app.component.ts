@@ -13,7 +13,7 @@ export class SonDetails {
 
 
 export class AppComponent implements OnInit  {
-  name = 'Angular';
+  name = 'Angular Demo';
 destroyed = new Subject<boolean>();
 obj ={
   id:Number,
